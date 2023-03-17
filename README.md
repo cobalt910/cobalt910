@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 🔭 I’m currently working on:
-- 🌊 Personal game project
+- 🎮 Personal game project
 - ✨ Advanced post-effects pack
 - 🛰 Space idle game in "Green Panda Games"
 - 🏝 Custom SRP
